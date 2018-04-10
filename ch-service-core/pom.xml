@@ -11,5 +11,11 @@
 
     <artifactId>ch-service-core</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.ch</groupId>
+            <artifactId>ch-service-api</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
