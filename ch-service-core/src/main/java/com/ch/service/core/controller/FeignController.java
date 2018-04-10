@@ -1,6 +1,6 @@
-package com.ch.bcrm.service.controller;
+package com.ch.service.core.controller;
 
-import com.ch.bcrm.service.model.User;
+import com.ch.service.core.model.User;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;

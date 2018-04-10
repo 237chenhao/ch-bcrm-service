@@ -5,8 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ch</groupId>
-    <artifactId>ch-bcrm-service</artifactId>
+    <artifactId>ch-service</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>ch-service-api</module>
+        <module>ch-service-core</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>

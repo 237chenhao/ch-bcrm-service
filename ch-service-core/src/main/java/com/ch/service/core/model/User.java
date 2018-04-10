@@ -1,4 +1,4 @@
-package com.ch.bcrm.service.model;
+package com.ch.service.core.model;
 
 /**
  * @author cj-ch

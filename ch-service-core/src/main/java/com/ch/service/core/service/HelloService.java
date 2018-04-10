@@ -1,4 +1,4 @@
-package com.ch.bcrm.service.service;
+package com.ch.service.core.service;
 
 import org.springframework.stereotype.Service;
 

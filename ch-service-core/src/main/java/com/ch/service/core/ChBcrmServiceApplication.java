@@ -1,4 +1,4 @@
-package com.ch.bcrm.service;
+package com.ch.service.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
