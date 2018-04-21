@@ -1,11 +1,3 @@
 
-spring:
-  application:
-    # 应用的名称,同一个服务的多个服务实例名称要一样
-    name: micro-service
 
-eureka:
-  client:
-    service-url:
-      # 指定服务注册中心地址,当搭建了高可用注册中心时,多个注册中心地址用","隔开
-      defaultZone: http://localhost:1111/eureka/,http://localhost:1112/eureka/
+
